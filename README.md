@@ -1,20 +1,3 @@
-# RedditStudy
-Repository for our reddit data project.
+This is a repository of the scripts used as part of a statistical analysis into comments iwthin the social media site Reddit.
 
-# Project Links
-[Google Drive](https://drive.google.com/drive/folders/1TFYNqkuc-7K0K0mLSSuWT80ex4M7W862?ths=true)  
-Various project files notes, meetings, peers excel.
-
-[JSON Data share](https://drive.google.com/drive/folders/1zN64XBXvPS6WJErXhNPxr9qZ1goDNl5t)  
-Inludes singular subreddits that have been parsed, also has shortned versions of them.  
-[C++ Parser](https://github.com/Medscootsman/RedditStudy/blob/master/scripts/parser/subreddit_parser.cpp)  
-short = removed pointless columns, removed score < 0, removed deleted comments, removed top bots (there could still be more bots)
-
-[Literature Review](https://docs.google.com/document/d/1WG02Uu-2Tk9yFrjh-C1SylBPCQNWgs3cFRMo7RH-0cg/edit?usp=sharing)
-Work in progress. 
-# Useful Links
-SciHub  
-https://sci-hub.tw/
-
-# Example Wordcloud
-![alt text](https://github.com/Medscootsman/RedditStudy/blob/master/graphs/wordcloud_DankMemes.png "Dank Memes Wordcloud")
+The files feature a neural network which was designed to provide a predictive binary classification on the success of the reddit comments.
